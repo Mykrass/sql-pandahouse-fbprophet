@@ -1,3 +1,3 @@
-pystan~=2.14
+pandahouse
+pystan
 fbprophet
-pandahouse >= 0.2.7 
