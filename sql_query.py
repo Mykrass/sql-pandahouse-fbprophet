@@ -2,14 +2,8 @@ import pandas as pd
 import numpy as np
 import pandahouse as ph
 from datetime import date
-#import holidays
+import holidays
 from fbprophet import Prophet
-
-import datetime
-import random
-import prefect
-from datetime import datetime, timedelta
-from prefect import Flow
 
 
 # Input parameter for CSV filename on Amazon S3
